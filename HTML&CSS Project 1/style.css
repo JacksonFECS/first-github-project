@@ -1,0 +1,19 @@
+#profilepic{
+    height: 32px;
+    width: 32px;
+}
+
+#favicon{
+    height: 32px;
+    width: 32px;
+}
+
+#headerlogo{
+    height: 32px;
+    width: 32px;
+}
+
+#psa{
+    background-color: #219ebc;
+    display: flex;
+}
